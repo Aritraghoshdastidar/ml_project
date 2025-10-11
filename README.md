@@ -51,4 +51,4 @@ Remember to always copy the data in the right folder before running the scripts.
 
 Also the neural network code is in this google colab:
 
-https://colab.research.google.com/drive/1cmharNpGGHcWEsIn6n6r4DmN0h0qhE-W
+https://colab.research.google.com/drive/1d2HYxJg4YjNWHPZOyGAZMlSN2N5pmBhj?usp=sharing
