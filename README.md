@@ -148,10 +148,11 @@ The Colab notebook automatically plots performance comparison among models:
 ```python
 Model Performance Comparison
 ─────────────────────────────
-SVM (RBF):       0.921
-Neural Net:      0.937
-Random Forest:   0.955
-XGBoost:         0.961
+RAIM:            0.51
+SVM (RBF):       0.85
+Neural Net:      0.92302
+Random Forest:   0.92000
+XGBoost:         0.92390
 ```
 
 
