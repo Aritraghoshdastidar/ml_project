@@ -154,9 +154,6 @@ Random Forest:   0.955
 XGBoost:         0.961
 ```
 
-<p align="center">
-  <img src="https://github.com/placeholder/gps-project-demo/blob/main/results/model_comparison.png" width="550">
-</p>
 
 ---
 
